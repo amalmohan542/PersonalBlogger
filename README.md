@@ -11,5 +11,15 @@
 ## To Run this Project ## 
 
     node app.js
+    
+## After the above steps go to browser and search ##  
+    localhost:3000  
+   #### Now you can see the Blog Homepage
+   
+## To Compose new Blog post Edit the URL to  ## 
+    http://localhost:3000/compose
+  #### Now give the post Title and content then post it
+   
+    
 
 
