@@ -20,6 +20,6 @@
     http://localhost:3000/compose
   #### Now give the post Title and content then post it
    
-    
+![Post_Creation sample image](https://github.com/amalmohan542/myblogsite/blob/master/ProjectImages/BlogPost%20page.png)
 
 
