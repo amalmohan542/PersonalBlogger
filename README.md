@@ -5,7 +5,7 @@
 
 
 ## Clone this repository
-    git clone https://github.com/amalmohan542/myblogsite.git
+    git clone https://github.com/amalmohan542/PersonalBlogger.git
 
 
 ## To Run this Project ## 
